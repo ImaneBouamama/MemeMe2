@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SentMemesVC.swift
 //  MemeMe2
 //
 //  Created by Imane BOUAMAMA on 2021/10/17.
@@ -7,11 +7,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SentMemesVC: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
-    // Do any additional setup after loading the view.
+   
   }
 
 
